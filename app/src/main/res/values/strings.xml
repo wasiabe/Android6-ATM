@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android6-ATM</string>
+    <string name="login_id">Login Id</string>
+    <string name="password">Password</string>
+    <string name="logon">Logon</string>
+    <string name="cancel">Cancel</string>
+    <string name="loginSucceed">Login Succeed</string>
+    <string name="loginFailed">Login Failed</string>
+    <string name="AppTitle">ATM</string>
+    <string name="ButtonOK">OK</string>
+</resources>
